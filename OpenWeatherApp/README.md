@@ -1,2 +1,0 @@
-# OpenWeatherApp
-proyecto inicial
